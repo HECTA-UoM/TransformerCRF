@@ -26,7 +26,7 @@ On clinical Text Mining: another project/poster presentation from HealTAC2022 is
 
 | Full Paper Coming |
 |---|
-"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770). (https://github.com/HECTA-UoM/TransformerCRF/blob/main/view-TransCRF.pdf)
+"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770). (https://github.com/HECTA-UoM/TransformerCRF/blob/main/view-TransCRF.pdf)
 
 | Direct code download |
 |---|
