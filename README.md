@@ -98,6 +98,7 @@ On clinical Text Mining: another project/poster presentation from HealTAC2022 is
 
 - firstname.lastname@manchester.ac.uk (Firstname: Lifeng; Lastname: Han)|(Firstname: Yuping; Lastname: Wu)
 - firstname.lastname@student.manchester.ac.uk (Firstname: Samuel; Lastname: Belkadi)
+
 | Read More about Our Work |
 |---|
 [Samuel Belkadi](https://scholar.google.co.uk/citations?hl=en&user=OMoa6IoAAAAJ)
