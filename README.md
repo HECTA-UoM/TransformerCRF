@@ -14,7 +14,7 @@ alternatively this link also fine [folder-address](https://drive.google.com/driv
 
 
 
-# News: New Pre-Print with Amazing New Results![saved models hosted here](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
+# News: New Pre-Print with Amazing New Results! [saved models hosted here - link](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
 "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770).
 
 | New models included |
@@ -100,7 +100,7 @@ On clinical Text Mining: another project/poster presentation from HealTAC2022 is
 
 | Read More about Our Work |
 |---|
-
+[Samuel Belkadi](https://scholar.google.co.uk/citations?hl=en&user=OMoa6IoAAAAJ)
 [Yuping Wu](https://scholar.google.com/citations?user=vZV_HuEAAAAJ&hl=en)
-[Lifeng Han](https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en)
-[Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic)
+[Lifeng Han, PhD](https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en)
+[Goran Nenadic, Prof](https://research.manchester.ac.uk/en/persons/gnenadic)
