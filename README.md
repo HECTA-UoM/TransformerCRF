@@ -14,21 +14,10 @@ alternatively this link also fine [folder-address](https://drive.google.com/driv
 
 
 
-# News: New Pre-Print with Amazing New Results!
+# News: New Pre-Print with Amazing New Results![saved models hosted here](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
+"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770).
 
-[Our new pre-print available](https://github.com/HECTA-UoM/TransformerCRF/blob/main/view-TransCRF.pdf)
-
-On clinical Text Mining: another project/poster presentation from HealTAC2022 is also uploaded on this github page
-'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
-[poster](https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf)
-
-
-
-| Full Paper Coming |
-|---|
-"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770). (https://github.com/HECTA-UoM/TransformerCRF/blob/main/view-TransCRF.pdf)
-
-| Direct code download |
+| New models included |
 |---|
 From this repository: new version - fine-tuned PLMs and LLMs 
 - BERT-Apt
@@ -60,6 +49,10 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 **BioformerApt, ClinicalBERT-CRF, BioformerCRF**
 - Continuous learning useing data constrained setting of 303 EHR letters
 
+| other posters related to this project |
+On clinical Text Mining: another project/poster presentation from HealTAC2022 is also uploaded on this github page
+'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
+[poster](https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf)
 
 
 | Citation Assistant |
@@ -88,7 +81,7 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
 **Plain**
 
-- Samuel Belkadi, Lifeng Han, Yuping Wu, Valerio Antonini, and Goran Nenadic. 2022. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
+- Samuel Belkadi, Lifeng Han, Yuping Wu, Valerio Antonini, and Goran Nenadic. 2023. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
 
 - Lifeng Han, Valerio Antonini, Ghada Alfattni, Alfredo Madrid, Warren Del-Pinto, Judith Andrew, William G. Dixon, Meghna Jani, Ana María Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic. 2022. A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
 
