@@ -15,7 +15,7 @@ alternatively this link also fine [folder-address](https://drive.google.com/driv
 
 
 # News: New [Pre-Print](https://github.com/HECTA-UoM/TransformerCRF/blob/main/view_TransformerCRF.pdf) with Amazing New Results, Accepted to Big Data Analytics for Health and Medicine (BDA4HM 2023) at IEEE BigData 2023! [saved models hosted here - link](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
-"Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770).
+"Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770). [BDA4HM2023-link](https://bda4hm.github.io)
 
 | New models included |
 |---|
@@ -60,28 +60,19 @@ On clinical Text Mining: another project/poster presentation from HealTAC2022 is
 
 **Bibtex**
 
-@misc{https://doi.org/10.48550/arxiv.2210.12770,
-  doi = {10.48550/ARXIV.2210.12770},
-  
-  url = {https://arxiv.org/abs/2210.12770},
-  
-  author = {Belkadi, Samuel and Han, Lifeng and Wu, Yuping and Antonini, Valerio and Nenadic, Goran},
-  
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+@misc{belkadi2023exploring,
+      title={Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition}, 
+      author={Samuel Belkadi and Lifeng Han and Yuping Wu and Goran Nenadic},
+      year={2023},
+      eprint={2210.12770},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 
 
 **Plain**
 
-- Samuel Belkadi, Lifeng Han, Yuping Wu, Valerio Antonini, and Goran Nenadic. 2023. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
+- Samuel Belkadi, Lifeng Han, Yuping Wu, and Goran Nenadic. 2023. "Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition". Forth-coming. BDA4HM2023 at IEEE Big Data 2023. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
 
 - Lifeng Han, Valerio Antonini, Ghada Alfattni, Alfredo Madrid, Warren Del-Pinto, Judith Andrew, William G. Dixon, Meghna Jani, Ana María Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic. 2022. A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
 
