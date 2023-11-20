@@ -72,7 +72,7 @@ On clinical Text Mining: another project/poster presentation from HealTAC2022 is
 
 **Plain**
 
-- Samuel Belkadi, Lifeng Han, Yuping Wu, and Goran Nenadic. 2023. "Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition". Forth-coming. BDA4HM2023 at IEEE Big Data 2023. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
+- Samuel Belkadi, Lifeng Han, Yuping Wu, and Goran Nenadic. 2023. "Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition". Forth-coming. BDA4HM2023 at IEEE Big Data 2023. Sorrento, Italy, December 15-18. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
 
 - Lifeng Han, Valerio Antonini, Ghada Alfattni, Alfredo Madrid, Warren Del-Pinto, Judith Andrew, William G. Dixon, Meghna Jani, Ana María Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic. 2022. A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
 
