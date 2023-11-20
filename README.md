@@ -14,7 +14,7 @@ alternatively this link also fine [folder-address](https://drive.google.com/driv
 
 
 
-# News: New [Pre-Print](https://github.com/HECTA-UoM/TransformerCRF/blob/main/view_TransformerCRF.pdf) with Amazing New Results! [saved models hosted here - link](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
+# News: New [Pre-Print](https://github.com/HECTA-UoM/TransformerCRF/blob/main/view_TransformerCRF.pdf) with Amazing New Results, Accepted to Big Data Analytics for Health and Medicine (BDA4HM 2023) at IEEE BigData 2023! [saved models hosted here - link](https://drive.google.com/drive/folders/1tDo18m_kJyw8cobLNzZMgsDtDLUUx6kI?usp=sharing)
 "Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition" 2023 ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770).
 
 | New models included |
