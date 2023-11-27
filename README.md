@@ -32,6 +32,10 @@ Learning from Scratch:
 - TransformerApt
 - Transformer-CRF
 
+# TransformerCRF+
+we will combine NER+RE and generate a representation table on this. stay tuned, or why not get in touch with us!
+
+
 | older version |
  
 https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
