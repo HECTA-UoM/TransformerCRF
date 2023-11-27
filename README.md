@@ -36,7 +36,7 @@ Learning from Scratch:
 we will combine NER+RE and generate a representation table on this. stay tuned, or why not get in touch with us!
 
 
-| older version |
+| older version TransformerCRF (to be fixed :)|
  
 https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
