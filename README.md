@@ -32,6 +32,8 @@ Learning from Scratch:
 - TransformerApt
 - Transformer-CRF
 
+[notebook ipynb files uploaded including model selection, training, and testing](https://github.com/HECTA-UoM/TransformerCRF/blob/main/TransformerCRF_notebooks.zip)
+
 # TransformerCRF+
 we will combine NER+RE and generate a representation table on this. stay tuned, or why not get in touch with us!
 
