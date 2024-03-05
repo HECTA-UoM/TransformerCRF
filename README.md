@@ -4,7 +4,7 @@
 
 A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining
 
-Place-holder for our project/poster presentation in HealTAC2022 conference and follow-up work: code and data sharing
+Place-holder for our project/poster presentation in HealTAC2022 conference and follow-up work: code and models sharing
 
 Conference program: https://healtac2022.github.io/programmes/
 
